@@ -1,0 +1,8 @@
+{
+  "name": "Squid AI Challenger",
+  "description": "Outsmart a predictive AI that traps your future movements in this intense, physics-based 2D platformer tribute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
